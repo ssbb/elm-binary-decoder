@@ -1,6 +1,0 @@
-{
-  "name": "@jinjor/elm-binary-decoder",
-  "version": "1.0.0",
-  "description": "dependencies for elm-binary-decoder or any package/app that uses it",
-  "dependencies": {}
-}
