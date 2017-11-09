@@ -9,7 +9,8 @@
     "exposed-modules": [
         "BinaryDecoder",
         "BinaryDecoder.Byte",
-        "BinaryDecoder.Bit"
+        "BinaryDecoder.Bit",
+        "BinaryDecoder.File"
     ],
     "native-modules": true,
     "dependencies": {
