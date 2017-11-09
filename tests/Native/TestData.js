@@ -1,4 +1,4 @@
-var _ssbb$binary_decoder$Native_TestData = function() {
+var _ssbb$elm_binary_decoder$Native_TestData = function() {
 
 function fromList(uints) {
   var uints = _elm_lang$core$Native_List.toArray(uints);
