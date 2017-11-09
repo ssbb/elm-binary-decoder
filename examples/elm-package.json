@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Experimental binary decoder",
-    "repository": "https://github.com/jinjor/binary-decoder.git",
+    "repository": "https://github.com/ssbb/binary-decoder.git",
     "license": "BSD3",
     "source-directories": [
         ".",

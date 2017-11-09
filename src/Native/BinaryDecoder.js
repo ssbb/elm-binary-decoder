@@ -1,4 +1,4 @@
-var _jinjor$binary_decoder$Native_BinaryDecoder = function() {
+var _ssbb$binary_decoder$Native_BinaryDecoder = function() {
 
 function toFileList(value) {
   if(value instanceof FileList) {
@@ -27,7 +27,7 @@ function readFileAsArrayBuffer(file) {
     });
     reader.addEventListener('error', function() {
       callback(_elm_lang$core$Native_Scheduler.fail(
-        _jinjor$binary_decoder$Native_BinaryDecoder$Error
+        _ssbb$binary_decoder$Native_BinaryDecoder$Error
       ));
     });
     reader.readAsArrayBuffer(file);

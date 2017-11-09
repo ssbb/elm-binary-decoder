@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "Sample Elm Test",
-    "repository": "https://github.com/jinjor/binary-decoder.git",
+    "repository": "https://github.com/ssbb/binary-decoder.git",
     "license": "BSD-3-Clause",
     "source-directories": [
         ".",

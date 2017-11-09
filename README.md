@@ -1,7 +1,7 @@
 elm-binary-decoder
 ====
 
-[![Build Status](https://travis-ci.org/jinjor/elm-binary-decoder.svg)](https://travis-ci.org/jinjor/elm-binary-decoder)
+[![Build Status](https://travis-ci.org/ssbb/elm-binary-decoder.svg)](https://travis-ci.org/ssbb/elm-binary-decoder)
 
 Experimental binary decoder inspired by [elm-tools/parser](http://package.elm-lang.org/packages/elm-tools/parser/latest).
 
@@ -9,7 +9,7 @@ Experimental binary decoder inspired by [elm-tools/parser](http://package.elm-la
 ## How to use?
 
 You can write `.wav` file decoder like this.
-See [examples](https://github.com/jinjor/elm-binary-decoder/tree/master/examples). (All examples are far from real use :P)
+See [examples](https://github.com/ssbb/elm-binary-decoder/tree/master/examples). (All examples are far from real use :P)
 
 ```elm
 wave : Decoder Wave
